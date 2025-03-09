@@ -93,5 +93,9 @@ bitbake torizon-minimal
 
 Hint: If the build process stops, check and defect the issues and restart `Bitbake torizon-minimal`.
 
-With recipe above you get the first torizon image. 
+With recipe above, new Torizon image bits are created.
+
+![image](https://github.com/user-attachments/assets/085a4dd8-c7f5-4c5a-97cf-9b001052878e)
+
+There are different possibilities to stage a system with thoose bits, e.g. writing the .wic file with Balena Etcher to an usb media and to boot from, or, using the .vmdk for a new vm.
 
