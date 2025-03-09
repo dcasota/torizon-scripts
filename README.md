@@ -102,5 +102,10 @@ There are different possibilities to stage a test system with thoose newly creat
 Here a picture of the grub boot menu from newly created vm. The vhw is specified as 'Other Linux 6.x kernel 64bit'.
 ![image](https://github.com/user-attachments/assets/b32a106a-d711-4b7f-9683-9b5f025c99a4)
 
-Login using username/password torizon/torizon.
+Login using username/password torizon/torizon, change password and you are ready to discover.
+
+![image](https://github.com/user-attachments/assets/0b998448-1070-4ab2-8d53-f3a374011738)
+
+
+
 
