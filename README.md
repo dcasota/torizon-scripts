@@ -4,9 +4,9 @@ In Switzerland, a company called Toradex created an open source platform Torizon
 
 ![image](https://github.com/user-attachments/assets/3d71052a-9aa0-4260-b3e5-244b4d2f4af8)
 
-Toradex focuses on embedded solutions for the industry. They develop their own carrier boards. Computer on Modules (CoM) / System on Modules (SoM) offer reliable and cost-effective embedded platform for building end-products. Toradex offers an extensive range of CoMs using leading Arm based System on Chips (SoC). See supported hardware on https://developer.toradex.com/hardware.
-SoM family: Aquila, Verdin, Apalis, Colibri
-Accessoires: Display, Wireless, Camera, etc. 
+Toradex focuses on embedded solutions for the industry. They develop their own carrier boards. Computer on Modules (CoM) / System on Modules (SoM) offer reliable and cost-effective embedded platform for building end-products. Toradex offers an extensive range of CoMs using leading Arm based System on Chips (SoC). See supported hardware on https://developer.toradex.com/hardware.  
+SoM family: Aquila, Verdin, Apalis, Colibri  
+Accessoires: Display, Wireless, Camera, etc.   
 
 ![image](https://github.com/user-attachments/assets/d25a3bdc-9052-453e-97c3-7e353c84161f)
 
