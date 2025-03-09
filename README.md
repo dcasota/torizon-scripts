@@ -99,7 +99,7 @@ With recipe above, new Torizon image bits are created.
 
 There are different possibilities to stage a test system with thoose newly created bits, e.g. writing the .wic file with Balena Etcher to an usb media and boot from, or, using the .vmdk for a new vm.
 
-Here a picture of the grub boot menu from newly created vm.
+Here a picture of the grub boot menu from newly created vm. The vhw is specified as 'Other Linux 6.x kernel 64bit'.
 ![image](https://github.com/user-attachments/assets/b32a106a-d711-4b7f-9683-9b5f025c99a4)
 
 Login using username/password torizon/torizon.
