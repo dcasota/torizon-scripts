@@ -21,7 +21,7 @@ Let's start with Torizon Development Environment. What is supported? See Torizon
 
 ![image](https://github.com/user-attachments/assets/4cb82419-c8d9-45d2-829c-b9a982c046c7)
 
-### x86_64 virtual machine builder system
+### builder system - x86_64 virtual machine
 Let's start with setup recipe for x86_64 https://github.com/torizon/meta-toradex-torizon/blob/scarthgap-7.x.y/docs/README-x86.md.
 
 The following prerequisite has been tested even it's not directly supported by Toradex.  
@@ -97,5 +97,8 @@ With recipe above, new Torizon image bits are created.
 
 ![image](https://github.com/user-attachments/assets/085a4dd8-c7f5-4c5a-97cf-9b001052878e)
 
-There are different possibilities to stage a system with thoose bits, e.g. writing the .wic file with Balena Etcher to an usb media and to boot from, or, using the .vmdk for a new vm.
+There are different possibilities to stage a test system with thoose newly created bits, e.g. writing the .wic file with Balena Etcher to an usb media and boot from, or, using the .vmdk for a new vm.
+
+Here a picture of the grub boot menu from newly created vm, Linux 6.6 64bit compatible, standard settings with changed boot to uefi.  
+![image](https://github.com/user-attachments/assets/b32a106a-d711-4b7f-9683-9b5f025c99a4)
 
