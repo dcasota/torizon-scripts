@@ -119,6 +119,10 @@ Login using username/password torizon/torizon, change password and you are ready
 
 ![image](https://github.com/user-attachments/assets/0b998448-1070-4ab2-8d53-f3a374011738)
 
+On Torizon Cloud, a device can be registered as a member of a fleet. Docker apps can be distributed across a fleet or a device.  
+
+![image](https://github.com/user-attachments/assets/32091180-d075-41ba-81fb-107efb3fe747)
+
 
 
 
